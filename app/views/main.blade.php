@@ -11,7 +11,7 @@
 
  
 
-  <div id = "header", style = "background-color:#FFA500; text-align:center">
+  <div id = "header", style = "background-color:#BDA0CB; text-align:center">
     <h1> 
       Welcome to the Boston Latin School Student Council!
     </h1>
@@ -36,7 +36,7 @@
     </h1>
   </div>
 
-  <div id = "body1", style = "text-align:center">
+  <div id = "body1", style = "background-color:#B452CD; height:100px;width:400px; width: 50%; margin: 0 auto;">
     <p>
       The First meeting will be September 8th after school (9/8/2014)
     </p>
@@ -51,14 +51,14 @@
   <div id = "body3", style = "text-align:right">
   </div>
 
-  <div id="menu" style="background-color:#FFD700;height:200px;width:120px;float:left;">
+  <div id="menu" style="background-color:#BDA0CB;height:200px;width:120px;float:left;">
     <b>Menu</b><br>
     Schedule<br>
     Meeting Minutes<br>
     Mission Statement
   </div>
   
-  <div id="footer" style="background-color:#FFA500;clear:both;text-align:bottom-center;">
+  <div id="footer" style="background-color:#BDA0CB;clear:both;text-align:bottom-center;">
   Copyright:  Boston Latin School Student Council and Kevin Gao</div>
 
   </div>
