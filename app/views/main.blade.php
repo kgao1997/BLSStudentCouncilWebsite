@@ -11,10 +11,10 @@
 
  
 
-  <div id = "header", style = "background-color:#BDA0CB; text-align:center">
+  <div id = "header", style = "background-color:#BDA0CB; text-align:center; background-image: url('http://www.boston.com/community/blogs/rock_the_schoolhouse/bostonlatinschool.jpg');width:1350px;height:200px;color: transparent">
     <h1> 
       <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt="Go WolfPack!!!">
-      Welcome to the Boston Latin School Student Council!
+      "__________________________________________________"
       <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt = "Go WolfPack!!!">
     </h1>
   </div>
@@ -22,6 +22,7 @@
 @stop
 
 @section('content')
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
 
    <style>
     body {
@@ -31,16 +32,9 @@
     }
     </style>
   
-  <div id = "meetingHeader", style="background-color:#8A2BE2;height:100px;width:200px;float:right;">
-    <h1>
-      Meeting news!
-    </h1>
-  </div>
 
-  <div id = "body1", style = "background-color:#B452CD; height:100px;width:400px; width: 50%; margin: 0 auto;">
-    <p>
-      The First meeting will be September 8th after school (9/8/2014)
-    </p>
+  <div id = "SchoolHeader", style = "color:pink;font-family: 'Tangerine', serif;font-size: 30px;text-shadow: 4px 4px 4px #aaa;height:100px;width:600px; margin: 0 auto;">
+    <h1> Welcome to the Boston Latin School Student Council </h1>
   </div>
 
 
@@ -53,11 +47,7 @@
     Meeting Minutes<br>
     Mission Statement
   </div>
-  
-  <div id="footer" style="background-color:#BDA0CB;clear:both;text-align:bottom-center;">
-  Copyright: Kevin Gao</div>
-
-  </div>
+ 
 
 
 @stop
