@@ -13,7 +13,9 @@
 
   <div id = "header", style = "background-color:#BDA0CB; text-align:center">
     <h1> 
+      <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt="Go WolfPack!!!">
       Welcome to the Boston Latin School Student Council!
+      <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt = "Go WolfPack!!!">
     </h1>
   </div>
 
@@ -23,8 +25,7 @@
 
    <style>
     body {
-      background-image:  url("http://upload.wikimedia.org/wikipedia/en/2/20/BLS_Wolfpack.png");
-      background-repeat: no-repeat;
+      background-image:  url("http://www.featurepics.com/FI/Thumb300/20110202/Purple-Ornate-Pattern-1776509.jpg");
       background-position: center top;
       background-color: #BF5FFF;
     }
@@ -42,11 +43,6 @@
     </p>
   </div>
 
-  <div id = "body2", style = "text-align:center">
-    <p>
-    Hi everybody!  
-    </p>
-  </div>
 
   <div id = "body3", style = "text-align:right">
   </div>
@@ -59,7 +55,7 @@
   </div>
   
   <div id="footer" style="background-color:#BDA0CB;clear:both;text-align:bottom-center;">
-  Copyright:  Boston Latin School Student Council and Kevin Gao</div>
+  Copyright: Kevin Gao</div>
 
   </div>
 
