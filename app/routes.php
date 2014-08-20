@@ -15,3 +15,18 @@ Route::get('/', function()
 {
 	return View::make('main');
 });
+
+Route::get('main', function()
+{
+	return View::make('main');
+});
+
+Route::get('meetingMinutes', function()
+{
+	return View::make('meetingMinutes');
+});
+
+Route::get('news', function()
+{
+	return View::make('news');
+});

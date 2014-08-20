@@ -22,11 +22,11 @@
 @stop
 
 @section('content')
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine|Courgette">
 
    <style>
     body {
-      background-image:  url("http://www.featurepics.com/FI/Thumb300/20110202/Purple-Ornate-Pattern-1776509.jpg");
+      background-image:  url("http://1-art.eu/images/backgrounds/rice-paper/ricepaper-blue.jpg");
       background-position: center top;
       background-color: #BF5FFF;
     }
@@ -38,16 +38,17 @@
   </div>
 
 
-  <div id = "body3", style = "text-align:right">
+<div id="menu" style="background-color: #BF5FFF; width: 150px; 
+
+    font-family:'Courgette',serif;font size:18px;float:left; margin-left: 100px">
+  <ul>
+      <b>Menu</b></br>
+      <li><a href="/main">Main Page</a></li>
+      <li><a href="/meetingMinutes">Meeting Minutes</a></li>
+      <li><a href="/news">News</a></li>
+  </ul>
   </div>
 
-  <div id="menu" style="background-color:#BDA0CB;height:200px;width:120px;float:left;">
-    <b>Menu</b><br>
-    Schedule<br>
-    Meeting Minutes<br>
-    Mission Statement
-  </div>
- 
 
 
 @stop
