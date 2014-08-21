@@ -37,12 +37,39 @@
     <h1> Welcome to the Boston Latin School Student Council </h1>
   </div>
 
+<style>
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
 
-<div id="menu" style="background-color: #BF5FFF; width: 150px; 
+a {
+    float: left;
+    width: 6em;
+    text-decoration: none;
+    color: white;
+    background-color:  Purple;
+    padding: 0.2em 0.6em;
+    border-right: 1px solid white;
+}
 
+a:hover {
+    background-color: fuchsia;
+}
+
+li {
+    display: inline;
+}
+</style>
+
+
+<div id="menu"; style = " 
     font-family:'Courgette',serif;font size:18px;float:left; margin-left: 100px">
   <ul>
-      <b>Menu</b></br>
+      
       <li><a href="/main">Main Page</a></li>
       <li><a href="/meetingMinutes">Meeting Minutes</a></li>
       <li><a href="/news">News</a></li>
