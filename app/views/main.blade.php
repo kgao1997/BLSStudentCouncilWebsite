@@ -16,6 +16,9 @@
       <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt="Go WolfPack!!!">
       "__________________________________________________"
       <img src="http://upload.wikimedia.org/wikipedia/en/5/5f/Boston_Latin_School_logo.png" alt = "Go WolfPack!!!">
+      <br>
+      <br>
+      <br>
     </h1>
   </div>
 
@@ -31,24 +34,21 @@
       background-color: #BF5FFF;
     }
     </style>
-  
 
-  <div id = "SchoolHeader", style = "color:pink;font-family: 'Tangerine', serif;font-size: 30px;text-shadow: 4px 4px 4px #aaa;height:100px;width:600px; margin: 0 auto;">
-    <h1> Welcome to the Boston Latin School Student Council </h1>
-  </div>
 
 <style>
 ul {
     float: left;
-    width: 100%;
+    width: 750px;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     list-style-type: none;
 }
 
 a {
-    float: left;
-    width: 6em;
+    text-align: center;
+    float: center;
+    width: 150px;
     text-decoration: none;
     color: white;
     background-color:  Purple;
@@ -67,14 +67,27 @@ li {
 
 
 <div id="menu"; style = " 
-    font-family:'Courgette',serif;font size:18px;float:left; margin-left: 100px">
+    font-family:'Courgette',serif;font size:18px;float:left; margin-left: 420px; margin-top:  20px">
   <ul>
-      
+      <br>
+      <br>
       <li><a href="/main">Main Page</a></li>
       <li><a href="/meetingMinutes">Meeting Minutes</a></li>
       <li><a href="/news">News</a></li>
+      <li><a href="/schedule">Schedule</a></li>
+      <li><a href="/events">Events</a></li>
+      <br>
   </ul>
   </div>
+
+  
+
+  <div id = "SchoolHeader", style = "color:pink;font-family: 'Tangerine', serif;font-size: 30px;text-shadow: 4px 4px 4px #aaa;height:100px;width:600px;margin: 0 auto;">
+    <h1>
+     <br>
+      Welcome to the Boston Latin School Student Council </h1>
+  </div>
+
 
 
 
