@@ -30,3 +30,13 @@ Route::get('news', function()
 {
 	return View::make('news');
 });
+
+Route::get('events', function()
+{
+	return View::make('news');
+});
+
+Route::get('schedule', function()
+{
+	return View::make('news');
+});
