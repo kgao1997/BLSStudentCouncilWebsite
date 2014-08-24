@@ -14,7 +14,7 @@
     </h1>
   </div>
 
- <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine|Courgette">
+ <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine|Courgette|Ubuntu">
 
    <style>
     body {
@@ -61,7 +61,7 @@ li {
       <br>
       <br>
       <li><a href="/main">Main Page</a></li>
-      <li><a href="/meetingMinutes">About Us</a></li>
+      <li><a href="/aboutUs">About Us</a></li>
       <li><a href="/news">News</a></li>
       <li><a href="/schedule">Schedule</a></li>
       <li><a href="/events">Events</a></li>
@@ -79,8 +79,9 @@ li {
    </h1>
   </div>
   
-  <div id = "container", style = "color:pink; background-color:purple; height: 1200px; width: 900px; margin: 0 auto;">
+  <div id = "container", style = "font-family:'Ubuntu', serif;color:pink; background-color:purple; height: 1200px; width: 900px; margin: 0 auto; margin-top: 50px;">
   <br>
+  
   @yield('content')
   </div>
 

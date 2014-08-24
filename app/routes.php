@@ -21,9 +21,9 @@ Route::get('main', function()
 	return View::make('main');
 });
 
-Route::get('meetingMinutes', function()
+Route::get('aboutUs', function()
 {
-	return View::make('meetingMinutes');
+	return View::make('aboutUs');
 });
 
 Route::get('news', function()
@@ -33,10 +33,10 @@ Route::get('news', function()
 
 Route::get('events', function()
 {
-	return View::make('news');
+	return View::make('events');
 });
 
 Route::get('schedule', function()
 {
-	return View::make('news');
+	return View::make('schedule');
 });
