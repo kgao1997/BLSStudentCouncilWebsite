@@ -1,12 +1,14 @@
 @extends('master')
 @section('content')
-Makin' your way in the world today takes everything you've got. Takin' a break from all your worries sure would help a lot. Flying away on a wing and a prayer. Who could it be? Believe it or not its just me.<br>
+<div align="center">
+
 <br>
-He's gainin' on you so you better look alive. He busy revin' up his Powerful Mach 5. Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since the day they was born. Their house is a museum where people come to see ‘em. They really are a scream the Addams Family. The movie star the professor and Mary Ann here on Gilligans Isle. Now were up in the big leagues getting' our turn at bat. The Love Boat soon will be making another run. The Love Boat promises something for everyone. On the most sensational inspirational celebrational Muppetational… This is what we call the Muppet Show.<br>
+Officers<br>
+President:  Angie Hourihan<br>
+Vice-President:  Gloribel Rivas<br>
+Secretary:  <br>
+Treasurer:  <br>
+IT Director:  Kevin Gao<br>
 <br>
-Makin' your way in the world today takes everything you've got. Takin' a break from all your worries sure would help a lot. The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Makin their way the only way they know how. That's just a little bit more than the law will allow. Doin' it our way. Nothin's gonna turn us back now. Straight ahead and on the track now. We're gonna make our dreams come true. Here's the story of a man named Brady who was busy with three boys of his own. The movie star the professor and Mary Ann here on Gilligans Isle. In a freak mishap Ranger 3 and its pilot Captain William Buck Rogers are blown out of their trajectory into an orbit which freezes his life support systems and returns Buck Rogers to Earth five-hundred years later. And we'll do it our way yes our way. Make all our dreams come true for me and you.<br>
-<br>
-If you have a problem if no one else can help and if you can find them maybe you can hire The A-Team. In a freak mishap Ranger 3 and its pilot Captain William Buck Rogers are blown out of their trajectory into an orbit which freezes his life support systems and returns Buck Rogers to Earth five-hundred years later. These days are all Happy and Free. These days are all share them with me oh baby! They call him Flipper Flipper faster than lightning. No one you see is smarter than he.<br>
-<br>
-Its mission - to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before. It's time to put on makeup. It's time to dress up right. It's time to raise the curtain on the Muppet Show tonight. Just two good ol' boys Wouldn't change if they could. Fightin' the system like a true modern day Robin Hood. That this group would somehow form a family that's the way we all became the Brady Bunch. And we'll do it our way yes our way. Make all our dreams come true for me and you. As long as we live its you and me baby. There ain't nothin' wrong with that., Doin' it our way. Nothin's gonna turn us back now. Straight ahead and on the track now. We're gonna make our dreams come true. Now were up in the big leagues getting' our turn at bat. Goodbye gray sky hello blue. There's nothing can hold me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long. And we know Flipper lives in a world full of wonder flying there-under under the sea. That this group would somehow form a family that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. Were gonna pay a call on the Addams Family.
+If you have questions, concerns, or just simply want to get involved in the Student Council, please email  blsstudentcouncil@gmail.com.  We'll add you to our mailing list and we promise to get back to you ASAP
 @stop
