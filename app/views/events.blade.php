@@ -14,8 +14,7 @@ coming six years.<br>
 Open House- November 3rd<br>
 The Open House is an opportunity for all members of the BLS community to look into joining the Student Council,<br>
 find out what we do, or just voice their thoughts.  Come join us!<br>
-<br>
-  
+<br>  
 Globe Santa Drive-  Will be in December<br>
 Student-Faculty Basketball Game- Will be in March-April<br>
 Crystal Apple Awards- June<br>

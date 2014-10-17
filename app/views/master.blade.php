@@ -18,7 +18,7 @@
 
    <style>
     body {
-      background-image:  url("http://1-art.eu/images/backgrounds/rice-paper/ricepaper-blue.jpg");
+      background-image:  url("http://www.zingerbug.com/Backgrounds/background_images/purple_and_white_floral.jpg");
       background-position: center top;
       background-color: #BF5FFF;
     }
@@ -28,21 +28,23 @@
 <style>
 ul {
     float: left;
-    width: 750px;
-    padding: 0;
+    width: 900px;
+    padding: 0 auto;
     margin: 0 auto;
     list-style-type: none;
 }
 
 a {
+    display: block;
     text-align: center;
     float: center;
     width: 150px;
+    color: white;   
     text-decoration: none;
-    color: white;
-    background-color:  Purple;
+    background-color: #BF3EFF;
     padding: 0.2em 0.6em;
-    border-right: 1px solid white;
+    border-right: 0px solid white;
+    opacity: 0.7;
 }
 
 a:hover {
@@ -50,13 +52,23 @@ a:hover {
 }
 
 li {
+    float:left;
     display: inline;
 }
 </style>
 
+  
+
+  <div id = "SchoolHeader", style = "color:#9A32CD;font-family: 'Tangerine', serif;font-size: 30px;text-shadow: 4px 4px 4px #aaa;height:100px;width:900px;margin: 0 auto;">
+    <h1>
+     <br>
+      Welcome to the Boston Latin School Student Council
+    <br>
+   </h1>
+  </div>
 
 <div id="menu"; style = " 
-    font-family:'Courgette',serif;font size:18px;float:left; margin-left: 420px; margin-top:  20px">
+    font-family:'Courgette',serif;font size:18px;float:left; margin-left: 200px; margin-top:  0px">
   <ul>
       <br>
       <br>
@@ -68,18 +80,8 @@ li {
       <br>
   </ul>
   </div>
-
   
-
-  <div id = "SchoolHeader", style = "color:pink;font-family: 'Tangerine', serif;font-size: 30px;text-shadow: 4px 4px 4px #aaa;height:100px;width:900px;margin: 0 auto;">
-    <h1>
-     <br>
-      Welcome to the Boston Latin School Student Council
-    <br>
-   </h1>
-  </div>
-  
-  <div id = "container", style = "font-family:'Ubuntu', serif;color:pink; background-color:purple; height: 1200px; width: 900px; margin: 0 auto; margin-top: 50px;">
+  <div id = "container", style = "font-family:'Ubuntu', serif;color:pink; opacity:0.5; background-color:#BF5FFF; height: 1200px; width: 900px; margin: 0 auto; margin-top: 75px;">
   <br>
   
   @yield('content')
