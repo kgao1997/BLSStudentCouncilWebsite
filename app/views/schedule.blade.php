@@ -1,6 +1,6 @@
 @extends('main')
 @section('content')
-<div align="center" style = opacity : 1>
+<div align="center">
   <h1>  Schedule of Events </h1>
 First Meeting:  9/8<br>
 Attention all members of class VI:  There will be a student forum in October<br>

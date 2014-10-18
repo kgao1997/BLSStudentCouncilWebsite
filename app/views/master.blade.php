@@ -81,7 +81,7 @@ li {
   </ul>
   </div>
   
-  <div id = "container", style = "font-family:'Ubuntu', serif;color:pink; opacity:0.5; background-color:#BF5FFF; height: 1200px; width: 900px; margin: 0 auto; margin-top: 75px;">
+  <div id = "container", style = "font-family:'Ubuntu', serif;color:pink; opacity:0.9; background-color:#BF5FFF; height: 1200px; width: 900px; margin: 0 auto; margin-top: 75px;">
   <br>
   
   @yield('content')
