@@ -20,5 +20,8 @@ Student-Faculty Basketball Game- Will be in March-April<br>
 Crystal Apple Awards- June<br>
 <br>
 Events TBD:  <br>
-Guest Speakers.  Keep visiting this page and the Schedule for more information when it becomes available!
+Guest Speakers.  Keep visiting this page and the Schedule for more information when it becomes available!<br>
+<br>
+Student Panel:  Advice from Boston Latin School Graduates to current Juniors and Seniors.  More information to be announced.  <br>
+<br>
 @stop
